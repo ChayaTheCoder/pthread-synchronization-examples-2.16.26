@@ -1,8 +1,6 @@
 # pthread-synchronization-examples-2.16.26
 ## Overview
-This collection of C++ programs demonstrates **thread synchronization techniques** using the POSIX `pthread` library. Each example explores a different approach to managing concurrent access to shared data.
-
-This folder contains a collection of C++ programs demonstrating thread synchronization using the POSIX pthread library. Each file focuses on a different mutual‑exclusion strategy, showing how threads safely share data and avoid race conditions. These examples reflect core Operating Systems concepts such as critical sections, busy waiting, mutex locks, and software‑based synchronization algorithms.
+This collection of C++ programs demonstrates **thread synchronization techniques** using the POSIX `pthread` library. Each example explores a different approach to managing concurrent access to shared data. Each file focuses on a different mutual‑exclusion strategy, showing how threads safely share data and avoid race conditions. These examples reflect core Operating Systems concepts such as critical sections, busy waiting, mutex locks, and software‑based synchronization algorithms.
 
 File Breakdown
 1. pthread-data-sharing-mutex.cpp
